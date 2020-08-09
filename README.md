@@ -7,10 +7,11 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2020 Goals: Learn transformer models thoroughly
 
-### Contact sources
+### Contacts
 
 [<img align="left" alt="JastonMatter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JastonMatter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JastonMatter | Instagram" width="22px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 
 <br />
 
@@ -48,3 +49,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[angellist]: https://angel.co/u/johannes-leppakorpi
