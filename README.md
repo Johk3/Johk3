@@ -9,14 +9,18 @@
 
 ### Contacts
 
+[<img align="left" alt="JastonMatter | Instagram" width="60px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 [<img align="left" alt="JastonMatter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JastonMatter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JastonMatter | Instagram" width="50px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 
 <br />
 
 ### Languages and Tools:
 
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
+[<img align="left" alt="Golang" width="26px" src="https://yourbasic.org/golang/square-gopher.png" />][webdevplaylist]
+[<img align="left" alt="Cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][webdevplaylist]
+[<img align="left" alt="Dart" width="26px" src="https://img.favpng.com/17/22/14/dart-logo-programming-language-computer-programming-png-favpng-dxsn9fxX3pi0nNgU3ehqpmPWN.jpg" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -45,8 +49,8 @@
 [twitter]: https://twitter.com/JastonMatter
 [instagram]: https://instagram.com/JastonMatter
 [linkedin]: https://linkedin.com/in/JastonMatter
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://github.com/Johk3
+[jsplaylist]: https://github.com/Johk3
+[cssplaylist]: https://github.com/Johk3
+[reactplaylist]: https://github.com/Johk3
 [angellist]: https://angel.co/u/johannes-leppakorpi
