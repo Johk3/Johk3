@@ -9,9 +9,7 @@
 
 ### Contacts
 
-[<img align="left" alt="JastonMatter | Instagram" width="60px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
-[<img align="left" alt="JastonMatter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JastonMatter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JohannesLeppäkorpi | Instagram" width="60px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 
 <br />
 
