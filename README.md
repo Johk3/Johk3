@@ -2,10 +2,9 @@
 ### Hello friend. I'm Johannes - Co-Founder of JastonMatter
 
 ## My Daemons
-- 🔭 I'm working as a freelancer
-- 🌱 I'm dedicating most of my time to research papers
-- 👯 I’m looking to collaborate on open source projects
-- 🥅 2020 Goals: Learn transformer models thoroughly
+-  Working as a freelancer
+-  Dedicating most of my time to research papers
+-  Looking to collaborate on open source projects
 
 ### Contacts
 
