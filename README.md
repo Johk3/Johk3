@@ -1,5 +1,5 @@
 
-### Hello friend. I'm Johannes - Co-Founder of JastonMatter
+### Hello friend
 
 ## My Daemons
 -  Working as a freelancer
