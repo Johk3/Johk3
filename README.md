@@ -6,6 +6,8 @@
 -  Dedicating most of my time to research papers
 -  Looking to collaborate on open source projects
 
+## SLAM / ROTMG Projects
+![](demo.gif) ![](trade.gif)
 ### Contacts
 
 [<img align="left" alt="JohannesLeppäkorpi | Instagram" width="60px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
