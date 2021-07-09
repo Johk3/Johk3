@@ -6,7 +6,6 @@
 -  Dedicating most of my time to research papers
 -  Looking to collaborate on open source projects
 
-## SLAM / ROTMG Projects
 ![](demo.gif)
 ### Contacts
 
