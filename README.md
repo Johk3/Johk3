@@ -4,7 +4,7 @@
 [<img align="left" alt="JohannesLeppäkorpi" width="52px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 
 <br />
-
+# I am a developer.
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
