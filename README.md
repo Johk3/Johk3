@@ -1,11 +1,3 @@
-
-### Hello friend
-
-## My Daemons
--  Working as a freelancer
--  Dedicating most of my time to research papers
--  Looking to collaborate on open source projects
-
 ![](demo.gif)
 ### Contacts
 
