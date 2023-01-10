@@ -7,10 +7,13 @@
 
 
 ### Languages and Tools which I use
+
+<div>
 [<img align="left" alt="Python" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
 [<img align="left" alt="Golang" width="64px" src="https://yourbasic.org/golang/square-gopher.png" />][webdevplaylist]
 [<img align="left" alt="Cpp" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][webdevplaylist]
 [<img align="left" alt="Dart" width="64px" src="https://img.favpng.com/17/22/14/dart-logo-programming-language-computer-programming-png-favpng-dxsn9fxX3pi0nNgU3ehqpmPWN.jpg" />][webdevplaylist]
+<br />
 
 [<img align="left" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -27,7 +30,7 @@
 [<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-
+</div>
 [website]: https://JastonMatter.com
 [twitter]: https://twitter.com/JastonMatter
 [linkedin]: https://linkedin.com/in/JastonMatter
