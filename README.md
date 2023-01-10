@@ -4,6 +4,7 @@
 
 [<img align="left" alt="JohannesLeppäkorpi" width="100px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
 <br />
+[angellist]: https://angel.co/u/johannes-leppakorpi
 
 
 ### Languages and Tools which I use
@@ -28,11 +29,3 @@
 [<img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 </div>
-[website]: https://JastonMatter.com
-[twitter]: https://twitter.com/JastonMatter
-[linkedin]: https://linkedin.com/in/JastonMatter
-[webdevplaylist]: https://github.com/Johk3
-[jsplaylist]: https://github.com/Johk3
-[cssplaylist]: https://github.com/Johk3
-[reactplaylist]: https://github.com/Johk3
-[angellist]: https://angel.co/u/johannes-leppakorpi
