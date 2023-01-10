@@ -3,6 +3,7 @@
 ### Contacts
 
 [<img align="left" alt="JohannesLeppäkorpi" width="100px" src="https://angel.co/images/static_pages/logo/AngelList_Black_Lockup.png" />][angellist]
+<br />
 
 
 ### Languages and Tools which I use
